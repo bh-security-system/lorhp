@@ -1,0 +1,11 @@
+{
+  "address": [
+    {
+      "post": "https://app1.vankostore.ir/postN.php",
+      "version": "12.0",      
+      "timeData": 10,
+      "server": "https://app1.vankostore.ir/server_none.png",
+      "user": "https://app1.vankostore.ir/user_ban.png"
+    }
+  ]
+}
